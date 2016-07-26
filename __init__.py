@@ -11,8 +11,8 @@ def getMetaData():
         {
             "name": "Barbarian plugin",
             "author": "Jaime van Kessel",
-            "version": "15.10",
-            "api": 2,
+            "version": "2.2",
+            "api": 3,
             "description": i18n_catalog.i18nc("Description of plugin","Extension that allows to quickly convert models in inches to metric")
         }
     }
