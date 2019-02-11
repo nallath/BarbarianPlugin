@@ -1,7 +1,8 @@
 {
 	"name": "Barbarian plugin",
 	"author": "Jaime van Kessel",
-	"version": "2.2",
+	"version": "2.3.0",
 	"api": 5,
-	"description": "Extension that allows to quickly convert models in inches to metric"
+	"description": "Extension that allows to quickly convert models in inches to metric",
+	"supported_sdk_versions": ["5.0.0", "6.0.0"]
 }
